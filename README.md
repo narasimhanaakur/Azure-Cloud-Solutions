@@ -6,6 +6,8 @@ Welcome to Azure Cloud Solutions, a comprehensive collection of hands-on project
 
 📁 Repository Structure
 
+```plaintext
+Azure-Cloud-Solutions/
 │── Azure-Core-Infrastructure/
 │   ├── Virtual-Machines/
 │   │   ├── Create-VM/
@@ -108,8 +110,8 @@ Welcome to Azure Cloud Solutions, a comprehensive collection of hands-on project
 │   ├── cli-scripts/
 │── reports/
 │   ├── Lab-Summaries/
-│   ├── Performance-Reports/ 
-
+│   ├── Performance-Reports/
+```
 This repository is organized into six main projects, each addressing critical cloud competencies for freelancing and senior cloud engineering roles.
 
 1️⃣ Azure Core Infrastructure
