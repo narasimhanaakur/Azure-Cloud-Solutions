@@ -6,6 +6,110 @@ Welcome to Azure Cloud Solutions, a comprehensive collection of hands-on project
 
 📁 Repository Structure
 
+│── Azure-Core-Infrastructure/
+│   ├── Virtual-Machines/
+│   │   ├── Create-VM/
+│   │   ├── Encrypt-VM-Portal/
+│   │   ├── Encrypt-VM-CLI/
+│   │   ├── Bastion-Management/
+│   │   ├── Azure-Bastion-Service/
+│   ├── Networking/
+│   │   ├── Network-Routes/
+│   │   ├── VNet-Peering/
+│   │   ├── VPN-Gateway/
+│   │   ├── VNet-to-VNet-VPN/
+│   ├── Load-Balancing/
+│   │   ├── Azure-Load-Balancer/
+│   │   ├── Traffic-Manager/
+│   │   ├── Gateway-Load-Balancer/
+│   │   ├── Application-Gateway-WAF/
+│   │   ├── Azure-Front-Door/
+│   ├── Storage-Security/
+│   │   ├── Storage-Account/
+│   │   ├── Immutable-Blob-Storage/
+│   │   ├── Azure-File-Sync/
+│   │   ├── NetApp-Files-NFS/
+│   │   ├── AzCopy-Migration/
+│   │   ├── Encrypt-Decrypt-Data/
+│   ├── Azure-Core-Infrastructure.md
+│── Azure-DevOps-IaC/
+│   ├── Terraform/
+│   │   ├── Storage-Account/
+│   │   ├── Linux-VM/
+│   │   ├── Analysis-Services/
+│   ├── Bicep/
+│   │   ├── Analysis-Services/
+│   │   ├── App-Service/
+│   │   ├── Azure-Cache-Redis/
+│   │   ├── Azure-Functions/
+│   ├── ARM-Templates/
+│   │   ├── Windows-VM/
+│   │   ├── Batch-Account/
+│   │   ├── SignalR-Service/
+│   │   ├── Notification-Hub/
+│   │   ├── Azure-Cache-Redis/
+│   │   ├── Analysis-Services/
+│   ├── Azure-DevOps-IaC.md
+│── Azure-App-Services/
+│   ├── App-Services-Logging/
+│   │   ├── Web-App-Logging/
+│   │   ├── Azure-App-Service/
+│   │   ├── Web-App-Cloning/
+│   │   ├── App-Service-ARM-Template/
+│   │   ├── Web-App-Redis-Bicep/
+│   ├── Serverless-Apps/
+│   │   ├── Azure-Functions/
+│   │   ├── Secure-Functions-Private-Access/
+│   │   ├── Functions-Private-Endpoints/
+│   │   ├── Outbound-IP-NAT-Gateway/
+│   ├── Containers/
+│   │   ├── Azure-Container-Registry/
+│   │   ├── Web-App-Containerization/
+│   │   ├── ACR-Provisioning-Challenge/
+│   ├── Azure-App-Services.md
+│── Azure-Data-Analytics/
+│   ├── Databases-Analytics/
+│   │   ├── SQL-Database/
+│   │   │   ├── Data-Factory/
+│   │   │   ├── Stream-Analytics-ARM/
+│   │   │   ├── IoT-Data-Streaming/
+│   ├── Event-Driven-Architecture/
+│   │   ├── Azure-Event-Hub/
+│   │   ├── Event-Hub-ARM/
+│   │   ├── Service-Bus-Topic/
+│   │   ├── Event-Grid-Functions/
+│   ├── Azure-Data-Analytics.md
+│── Azure-Security-Identity/
+│   ├── Key-Vault/
+│   │   ├── Understanding-Key-Vault/
+│   │   ├── Secret-Management/
+│   │   ├── Key-Vault-Backup/
+│   ├── Event-Integrations/
+│   │   ├── Blob-Storage-Events/
+│   │   ├── Custom-Events-Functions/
+│   │   ├── Event-Routing-Web-Endpoint/
+│   ├── API-Service-Bus/
+│   │   ├── Azure-Service-Bus/
+│   │   ├── API-Management-VSCode/
+│   ├── Azure-Security-Identity.md
+│── Advanced-Networking-Security/
+│   ├── Firewall-Security/
+│   │   ├── Azure-Firewall-Policy/
+│   │   ├── DNAT-Filtering/
+│   │   ├── WAF-Policy-FrontDoor/
+│   │   ├── Web-App-Firewall-Rules/
+│   ├── Advanced-Networking-Security.md
+│── README.md
+│── .gitignore
+│── scripts/
+│   ├── terraform/
+│   ├── bicep/
+│   ├── arm-templates/
+│   ├── cli-scripts/
+│── reports/
+│   ├── Lab-Summaries/
+│   ├── Performance-Reports/ 
+
 This repository is organized into six main projects, each addressing critical cloud competencies for freelancing and senior cloud engineering roles.
 
 1️⃣ Azure Core Infrastructure
